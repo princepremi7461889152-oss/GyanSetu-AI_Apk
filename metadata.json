@@ -1,0 +1,6 @@
+{
+  "name": "GyanSetu AI",
+  "description": "AI Study App: upload up to 6 chapters, lock notes with password, get instant summaries, and simplify tough questions in easy Hinglish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
